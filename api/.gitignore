@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# environment variables
+.env
+
+# editor/IDE specific files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
